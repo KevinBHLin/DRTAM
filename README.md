@@ -8,7 +8,7 @@ Dual Rank-1 Tensor Attention Module for Convolutional Neural Networks
 #CUDA_VISIBLE_DEVICES=0,1,2,3 python main.py --arch resnet50 --cfg config/DRTAMLinv3_v4v2_stage.py /home/data/imagenet
 
 
-##Citation
+## Citation
 
 @INPROCEEDINGS{10446465,
   author={Lin, Baihong and Chi, Hanxing and Lin, Zengrong and Hu, Jun and Wang, Liang and Zou, Jianxiao and Fan, Shicai},
