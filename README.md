@@ -12,10 +12,15 @@ Dual Rank-1 Tensor Attention Module for Convolutional Neural Networks
 
 @INPROCEEDINGS{10446465,
   author={Lin, Baihong and Chi, Hanxing and Lin, Zengrong and Hu, Jun and Wang, Liang and Zou, Jianxiao and Fan, Shicai},
+  
   booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  
   title={Dual Rank-1 Tensor Attention Module for Convolutional Neural Networks}, 
+  
   year={2024},
+  
   pages={3880-3884}
+  
   }
 
 
