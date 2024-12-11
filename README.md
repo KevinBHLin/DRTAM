@@ -1,4 +1,4 @@
-## DRTAM
+## Dual Rank-1 Tensor Attention Module for Convolutional Neural Networks
 
 Code and result about DRTAM (ICASSP 2024)
 
